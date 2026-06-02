@@ -1,8 +1,22 @@
-<p align="center">
+<div align="center">
   <strong>φ</strong>
-</p>
+  <h1>Pdf Product Generator</h1>
+  <p><em>Automated digital product generation pipeline using Python</em></p>
+  <p>
+    <a href="https://github.com/elidadutra187/pdf-product-generator">Repository</a> ·
+    <a href="https://github.com/elidadutra187">GitHub Profile</a>
+  </p>
+</div>
 
-# PDF Product Generator
+
+## Positioning
+
+This repository is part of the `φ` portfolio by [Élida Dutra](https://github.com/elidadutra187), focused on practical systems for e-commerce, automation, analytics, content generation and growth operations.
+
+**Repository:** [elidadutra187/pdf-product-generator](https://github.com/elidadutra187/pdf-product-generator)  
+**GitHub:** [https://github.com/elidadutra187](https://github.com/elidadutra187)  
+**Purpose:** Automated digital product generation pipeline using Python
+
 
 > Automated digital product generation pipeline using Python
 
@@ -200,3 +214,10 @@ MIT
   <strong>φ</strong><br>
   <em>Building intelligent systems at the intersection of marketing, data, and AI</em>
 </p>
+
+<div align="center">
+  <strong>φ</strong>
+  <br />
+  <sub>Built and maintained by <a href="https://github.com/elidadutra187">Élida Dutra</a>.</sub>
+</div>
+
